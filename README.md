@@ -1,5 +1,5 @@
 # Wenatchee-survival
-This is the repository associated with the *in prep* manuscript:   
+This is the repository associated with the *in review* manuscript:   
 **Juvenile life history diversity is associated with life-long demographic heterogeneity in a migratory fish**  
 by Mark H. Sorel, Andrew R. Murdoch, Richard W. Zabel, Jeffrey C. Jorgensen, Corey M. Kamphaus,and Sarah J. Converse.
 
