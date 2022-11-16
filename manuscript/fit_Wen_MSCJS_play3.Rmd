@@ -793,7 +793,7 @@ Occasion/interval|Variables|
 # Figures {-}
 
 ```{r map, echo=FALSE, out.width = '100%'}
-knitr::include_graphics("2_panel_map_4-12_elev.png")
+knitr::include_graphics(here("2_panel_map_4-12_elev.png"))
 ```
 
 `r fig_nums("map")`
